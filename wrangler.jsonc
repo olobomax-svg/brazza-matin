@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "brazza-matin",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "brazzamatin-db",
+			"database_id": "5af2523f-4f98-4ffa-a804-972a06ffa2fd"
+		}
+	]
+}
